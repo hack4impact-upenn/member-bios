@@ -1,5 +1,6 @@
 ---
 layout: profile
+title: Max McCarthy
 
 first_name: Max
 last_name: McCarthy
