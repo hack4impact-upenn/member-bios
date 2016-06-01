@@ -26,7 +26,8 @@ Biographical info:
 - `last_name`: Your last name.
 - `class_of`: Your (expected) graduating class.
 
-Contact information:
+Contact information (each of these fields are optional, so only include the ones
+you want):
 - `email`: An email address that can be used to contact you. Note that this
   address will be made public, so you may want to set up mail filters or use a
   different email than your primary one if you choose to include an email.
