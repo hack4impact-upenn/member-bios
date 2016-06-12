@@ -5,7 +5,6 @@ first_name: Veronica
 last_name: Wharton
 class_of: 2017
 
-email: wharton.veronica@gmail.com
 website: http://veronicawharton.com
 github: weronica
 twitter: veronicawharton
