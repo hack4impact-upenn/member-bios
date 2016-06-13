@@ -5,14 +5,12 @@ first_name: Rachel
 last_name: Hong
 class_of: 2017
 
-email: rachhong@sas.upenn.com
+email: rachhong@sas.upenn.edu
 website:
 github: rachelhongca
 twitter:
 linkedin: https://www.linkedin.com/in/rachel-hong-6b63247b
----
 
----
 exec:
   role: Community Chair
 ---
