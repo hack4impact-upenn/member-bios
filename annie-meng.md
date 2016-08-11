@@ -6,7 +6,7 @@ last_name: Meng
 class_of: 2017
 
 email: anniezmeng@gmail.com
-website: anniezmeng.com
+website: http://anniezmeng.com
 github: anniemeng
 twitter:
 linkedin: https://www.linkedin.com/in/zhiyuanniemeng
