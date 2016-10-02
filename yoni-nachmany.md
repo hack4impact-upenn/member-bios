@@ -16,7 +16,7 @@ Yoni is a junior at Penn studying [Networked & Social Systems Engineering](http:
 computer science degree focused on networks, crowds, and markets on the Internet.
 He is also a leader in the PennQuest outdoor orientation program, guiding 130
 incoming students on a hiking and camping trip on the Appalachian Trail,
-and is a site leader for Alternate Spring Break this year.
+and a site leader for Alternate Spring Break this year.
 A former [hackNY fellow](https://apply.hackny.org/), Yoni is excited about tech in his native New York City.
 This past summer, Yoni was a Core Engineer Intern at [Meetup](http://www.meetup.com/), which brings people
 together in thousands of cities to do more of what they want to do in life.
