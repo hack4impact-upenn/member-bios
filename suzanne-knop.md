@@ -1,5 +1,6 @@
 ---
 layout: profile
+
 first_name: Suzanne
 last_name: Knop
 class_of: 2019
