@@ -3,7 +3,7 @@ layout: profile
 
 first_name: Hana
 last_name: Pearlman
-class_of: 2016
+class_of: 2020
 
 email: pearlmanhana@gmail.com
 github: HanaPearlman
