@@ -8,7 +8,6 @@ class_of: 2018
 email: koushan@seas.upenn.edu
 website: kkoushan.com
 github: github.com/kasrakoushan
-twitter:
 linkedin: linkedin.com/in/kasrakoushan
 ---
 
