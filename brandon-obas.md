@@ -1,7 +1,7 @@
 ---
 layout: profile
 
-first_name: Brandon 
+first_name: Brandon
 last_name: Obas
 class_of: 2019
 
