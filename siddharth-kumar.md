@@ -1,6 +1,6 @@
 ---
 layout: profile
-first_name: Siddharth 
+first_name: Siddharth
 last_name: Kumar
 class_of: 2020
 
