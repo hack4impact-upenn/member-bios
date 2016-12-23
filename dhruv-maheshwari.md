@@ -1,18 +1,15 @@
 ---
 layout: profile
 
-first_name:
-last_name:
-class_of:
+first_name: Dhruv
+last_name: Maheshwari
+class_of: 2015
 
-email:
+email: dhwari@gmail.com
 website:
-github:
-twitter:
-linkedin:
+github: dhruvmah
+twitter: dhruvlife
+linkedin: https://www.linkedin.com/in/dhruvmah/
 ---
 
-Add your bio here.
-
-Note that you _can_ use standard **Markdown** formatting here. Please don't
-include any headers or non-paragraph elements, however.
+Dhruv Maheshwari, one of the co-founders of Hack4Impact, graduated in 2015 from the M&T Program and the Civic Scholars Program. Prior to Hack4Impact, Dhruv was the codirector of Penn Labs, project lead in Social Impact Consulting and a singer in Penn Masala. Dhruv is originally from Marin County, California and his spirit animal is a whale. He and other co-founder Ali Altaf are to blame for the now deprecated Hack4Impact slogal "HACKuna Matata." It's mostly Ali's fault. Today, Dhruv is a product manager at LinkedIn in San Francisco.
