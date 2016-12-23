@@ -6,7 +6,6 @@ last_name: Maheshwari
 class_of: 2015
 
 email: dhwari@gmail.com
-website:
 github: dhruvmah
 twitter: dhruvlife
 linkedin: https://www.linkedin.com/in/dhruvmah/
