@@ -4,6 +4,7 @@ layout: profile
 first_name: Dhruv
 last_name: Maheshwari
 class_of: 2015
+alum: true
 
 email: dhwari@gmail.com
 github: dhruvmah
