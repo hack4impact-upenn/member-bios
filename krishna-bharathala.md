@@ -5,8 +5,6 @@ first_name: Krishna
 last_name: Bharathala
 class_of: 2018
 
-exec:
-  role: Education Chair
 
 email: kbharathala@gmail.com
 github: kbharathala

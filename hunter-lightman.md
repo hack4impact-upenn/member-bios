@@ -10,6 +10,8 @@ website: http://hunterlightman.com
 github: huntrr
 twitter: HunterLightman
 linkedin: http://linkedin.com/in/hunterlightman
+exec:
+  role: Co-Director
 ---
 
 Hunter is a sophomore studying computer science at Penn, but right now he's

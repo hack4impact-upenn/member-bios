@@ -8,8 +8,6 @@ email: yoninachmany@gmail.com
 twitter: yoninachmany
 github: yoninachmany
 linkedin: https://www.linkedin.com/in/yoninachmany
-exec:
-  role: External Relations Chair
 ---
 
 Yoni is a junior at Penn studying [Networked & Social Systems Engineering](http://www.nets.upenn.edu/), a

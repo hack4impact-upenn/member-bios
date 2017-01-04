@@ -4,8 +4,6 @@ layout: profile
 first_name: Rachel
 last_name: Hong
 class_of: 2017
-exec:
-  role: Community Chair
 
 email: rachhong@sas.upenn.edu
 website:
