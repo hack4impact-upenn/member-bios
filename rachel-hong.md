@@ -12,4 +12,4 @@ twitter:
 linkedin: https://www.linkedin.com/in/rachel-hong-6b63247b
 ---
 
-Rachel Hong is a senior at the University of Pennylvania studying math econ, originally from San Jose, California. She is passionate about the use of quantitative reasoning in the social sciences and is especially interested in risk management and public policy. She worked as an actuarial intern at the Blue Shield of California this summer and has previously interned at the Federal Reserve Bank of San Francisco and Ernst & Young. In her free time, she enjoys typography, overpriced exercise classes, reading, and hiking.
+Rachel Hong is a senior at the University of Pennylvania studying math econ, originally from San Jose, California. She has previously interned at Blue Shield of California, the Federal Reserve Bank of San Francisco and Ernst & Young. In her free time, she enjoys typography, overpriced exercise classes, reading, and hiking. Rachel joined Hack4Impact in its first semester and has served on the executive board as community chair.
