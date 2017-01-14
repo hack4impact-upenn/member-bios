@@ -7,7 +7,7 @@ class_of: 2019
 
 email: subs@seas.upenn.edu
 website:
-github: https://github.com/sanjayss34
+github: sanjayss34
 twitter:
 linkedin: https://www.linkedin.com/in/sanjayss34
 ---
