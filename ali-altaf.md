@@ -4,6 +4,7 @@ layout: profile
 first_name: Ali
 last_name: Altaf
 class_of: 2015
+alum: true
 
 email: ali.altaf9@gmail.com
 github: alialtaf9
