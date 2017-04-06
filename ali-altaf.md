@@ -1,0 +1,14 @@
+---
+layout: profile
+
+first_name: Ali
+last_name: Altaf
+class_of: 2015
+alum: true
+
+email: ali.altaf9@gmail.com
+github: alialtaf9
+linkedin: https://www.linkedin.com/in/alialtaf
+---
+
+Ali Altaf co-founded Hack4Impact along with Dhruv Maheshwari because of a desire to work on technology projects for social good and to build a community of social-minded engineers. He proudly takes credit/blame for coining Hack4Impact’s now defunct but iconic slogan - “HACKuna Matata”. Ali studied Computer Science at Penn, and is originally from Karachi, Pakistan. Today, he works on data and machine learning projects at Pinterest, and is on the leadership team at [Code for Pakistan](http://codeforpakistan.org/), which he is helping to grow.
