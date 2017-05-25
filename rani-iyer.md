@@ -9,6 +9,4 @@ email: raniiyer@seas.upenn.edu
 website:
 github: riyer15
 twitter:
-exec:
-  role: Education Chair
 ---
