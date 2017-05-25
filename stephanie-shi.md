@@ -10,6 +10,8 @@ website: http://stephanieshi.com
 github: stephanieyshi
 twitter: stephanieyshi
 linkedin: https://linkedin.com/in/stephanieyshi
+exec:
+  role: Education Chair
 ---
 
 Stephanie is a freshman in the Jerome Fisher Program in Management and Technology
