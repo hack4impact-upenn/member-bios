@@ -4,6 +4,7 @@ layout: profile
 first_name: Rachel
 last_name: Hong
 class_of: 2017
+alum: true
 
 email: rachhong@sas.upenn.edu
 website:

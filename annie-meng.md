@@ -4,6 +4,7 @@ layout: profile
 first_name: Annie
 last_name: Meng
 class_of: 2017
+alum: true
 
 email: anniezmeng@gmail.com
 website: http://anniezmeng.com

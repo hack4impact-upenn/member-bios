@@ -4,6 +4,7 @@ layout: profile
 first_name: Cathy
 last_name: Chen
 class_of: 2017
+alum: true
 
 email: cathykaichen@gmail.com
 website: http://cathykchen.com
