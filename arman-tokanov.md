@@ -3,7 +3,7 @@ layout: profile
 first_name: Arman
 last_name: Tokanov
 class_of: 2017
-alum: false
+alum: true
 
 email: arman@seas.upenn.edu
 github: armant

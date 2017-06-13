@@ -4,6 +4,7 @@ layout: profile
 first_name: Veronica
 last_name: Wharton
 class_of: 2017
+alum: true
 
 email: veronica@hack4impact.org
 website: http://www.veronicawharton.com
