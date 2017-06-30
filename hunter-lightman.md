@@ -14,8 +14,9 @@ exec:
   role: Co-Director
 ---
 
-Hunter is a sophomore studying computer science at Penn. Last summer he taught
-programming to middle and high schoolers, and this summer he'll be working at
-Squarespace. When not teaching, studying, or otherwise hacking
-for impact, Hunter enjoys dabbling in hackathons, 3d printing, virtual reality,
-and web development. He also likes skiing, watching movies, and ice cream.
+Hunter is a junior studying computer science at Penn. Last summer he interned
+as a software engineer at Squarespace, and before that he worked as a
+programming instructor for middle and high school students. When not teaching,
+studying, or otherwise hacking for impact, Hunter enjoys dabbling in
+hackathons, 3d printing, virtual reality, and web development. He also likes
+skiing, watching movies, and ice cream.
