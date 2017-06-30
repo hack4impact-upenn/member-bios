@@ -13,4 +13,4 @@ exec:
   role: External Relations Chair
 ---
 
-Kasra is a junior at Penn studying computer science and (probably (hopefully)) math. Born in Tehran and raised in Toronto, he's also lived in the cities of Montreal, Cape Town, and now Philadelphia. He has experience in mobile and web development and has worked at [Over](http://madewithover.com) and an astrophysics lab at McGill. He's passionate about education, and loves pomegranates, photography, and Drake.
+Kasra is a rising senior at Penn studying computer science. He grew up in Toronto and has also lived in the cities of Montreal, Cape Town, and now Philadelphia. He has experience in mobile and web development and has worked at [Khan Academy](http://khanacademy.org), [Over](http://madewithover.com), and an astrophysics lab at McGill. He's passionate about education, and loves pomegranates, photography, and Drake.
