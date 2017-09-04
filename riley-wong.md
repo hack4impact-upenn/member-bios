@@ -8,7 +8,6 @@ class_of: 2017
 email: nancypwong@gmail.com
 website: http://nancywong.net
 github: nancywong
-twitter: nancypwong
 linkedin: https://www.linkedin.com/in/nancypwong
 exec:
   role: Co-Director
