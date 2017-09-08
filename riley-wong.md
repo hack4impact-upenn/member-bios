@@ -5,10 +5,10 @@ first_name: Riley
 last_name: Wong
 class_of: 2017
 
-email: nancypwong@gmail.com
-website: http://nancywong.net
-github: nancywong
-linkedin: https://www.linkedin.com/in/nancypwong
+email: rileynwong@gmail.com
+website: rileynwong.com
+github: rileynwong
+linkedin: www.linkedin.com/in/rileynwong
 exec:
   role: Co-Director
 ---
