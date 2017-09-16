@@ -10,7 +10,7 @@ github: yoninachmany
 linkedin: https://www.linkedin.com/in/yoninachmany
 ---
 
-Yoni is a senior at Penn studying [Networked and Social Systems Engineering](http://www.nets.upenn.edu/), a specialized computer science degree focused on networks, crowds and markets on the Internet. Through the NETS major, Yoni has been able to combine research on human computation that was accepted to HCOMP 2017, coursework in "Big Data Analytics", and teaching as a TA for the inaugural "Foundations of Data Science" course.
+Yoni is a senior at Penn studying [Networked and Social Systems Engineering](http://www.nets.upenn.edu/), a specialized computer science degree focused on networks, crowds and markets on the Internet. Through the NETS major, Yoni has been able to combine research on crowsourcing that was accepted to HCOMP 2017, coursework in "Big Data Analytics", and teaching as a TA for the inaugural "Foundations of Data Science" course.
 
 Yoni's summer internships have revolved around research and software development related to machine learning. At a geospatial technology company, Yoni built open source software to help apply deep learning techniques to understanding satellite imagery of environmental change. At Clarifai, a startup founded by a leader in deep learning for image classification, Yoni researched techniques to understand video data and built a platform to facilitate future research.
 
