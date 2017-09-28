@@ -10,15 +10,9 @@ github: yoninachmany
 linkedin: https://www.linkedin.com/in/yoninachmany
 ---
 
-Yoni is a junior at Penn studying [Networked & Social Systems Engineering](http://www.nets.upenn.edu/), a
-computer science degree focused on networks, crowds, and markets on the Internet.
-He is a leader in the PennQuest outdoor orientation program, guiding 130
-incoming students on a hiking and camping trip on the Appalachian Trail.
-He is also a site leader for Alternate Spring Break, a service-learning trip, this year.
-A former [hackNY fellow](https://apply.hackny.org/), Yoni is excited about tech in his native New York City.
-This past summer, Yoni was a Core Engineer Intern at [Meetup](http://www.meetup.com/), which brings people
-together in thousands of cities to do more of what they want to do in life.
-The summer before, he worked as a Machine Learning Research Intern at [Clarifai](http://clarifai.com/),
-an AI startup developing visual recognition technology with deep learning.
+Yoni is a senior at Penn studying [Networked and Social Systems Engineering](http://www.nets.upenn.edu/), a specialized computer science degree focused on networks, crowds and markets on the Internet. Through the NETS major, Yoni has been able to combine research on crowdsourcing that was accepted to HCOMP 2017, coursework in "Big Data Analytics", and teaching as a TA for the inaugural "Foundations of Data Science" course.
+
+Yoni's summer internships have revolved around research and software development related to machine learning. At a geospatial technology company, Yoni built open source software to help apply deep learning techniques to understanding satellite imagery of environmental change. At Clarifai, a startup founded by a leader in deep learning for image classification, Yoni researched techniques to understand video data and built a platform to facilitate future research.
+
 In his free time, he enjoys visiting museums on weekends, listening to podcasts
 before he goes to bed, and discovering beautiful music samples every day.
