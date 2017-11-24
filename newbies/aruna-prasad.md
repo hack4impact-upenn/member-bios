@@ -2,7 +2,7 @@ layout: profile
 
 first_name: Aruna
 last_name: Prasad
-class_of: 2017
+class_of: 2021
 
 email: aruna21@seas.upenn.edu
 website:
