@@ -1,3 +1,4 @@
+---
 layout: profile
 
 first_name: Victor
@@ -5,9 +6,8 @@ last_name: Chien
 class_of: 2020
 
 email: victorchien8872@gmail.com
-website:
-github: github.com/vicoociv
-twitter: 
-linkedin: www.linkedin.com/in/victorchien8872
+github: vicoociv
+linkedin: https://www.linkedin.com/in/victorchien8872
+---
 
-bio-description: Victor is a sophomore studying Computer Science and Management in the Jerome Fisher Program in Management and Technology. Outside of Hack4Impact, Victor is also helping organize the Hult Prize Ivy social enterprise business competition and a part of the Penn Blockchain Development team. In previous years, he has worked in Penn Labs and interned at several startups. When he is not coding, Victor enjoys cooking, working on personal iOS projects, and skate boarding.
+Victor is a sophomore studying Computer Science and Management in the Jerome Fisher Program in Management and Technology. Outside of Hack4Impact, Victor is also helping organize the Hult Prize Ivy social enterprise business competition and a part of the Penn Blockchain Development team. In previous years, he has worked in Penn Labs and interned at several startups. When he is not coding, Victor enjoys cooking, working on personal iOS projects, and skate boarding.
