@@ -12,4 +12,25 @@ exec:
   role: Co-Director
 ---
 
-Katie is a sophomore studying computer science. Born and raised in the heart of Silicon Valley in California, she is passionate about software development, education, and advocacy. As a TA for [CIS 160](https://www.seas.upenn.edu/~cis160/current/), she enjoys nerding out about discrete math and algorithms. Katie is currently interning at Facebook, where she is pursuing her love for app development by learning iOS programming. In her free time, she enjoys sketching on her iPad pro, reading about design and psychology, and obsessively listening to the Hamilton soundtrack.
+**Agent Name:** Katie Jiang
+**Code Name:**  K80
+**Hometown:**   Fremont, California (30 minutes from San Francisco, as she normally introduces it)
+**Year:**       Sophomore
+**Major:**      CIS (Central Intelligence Society)
+
+Affiliations:
+  - [CIS 160 TA](https://www.seas.upenn.edu/~cis160/current/): As a former CIS 160 agent, Katie uses complex probability models and expectation calculations to predict enemy movements.
+  - [CIS 121 TA](https://www.seas.upenn.edu/~cis121/current/): Katie is an incoming CIS 121 trainee. Armed with Dijkstra's, she always finds the shortest path to victory.
+  - [The Sign.al](http://thesign.al): On the side, she designs and develops secret resources for The Sign.al, which involves eavesdropping on CEOs, CTOs, and other successful Penn alumni (don't worry – we actually interview them.)
+Passions:
+  - Advocacy
+  - Design
+  - Education
+  - *Hamilton: An American Musical*
+  - Lofi
+  - Sketching
+  - Webtoons
+  - Web/mobile development
+Occupations:
+  - Katie infiltrated Facebook last summer as an iOS intern to spy on the world's most popular social network.
+  - Katie has secured a spot at Airbnb for next summer, and is hoping she gets some of that Airbnb credit.
