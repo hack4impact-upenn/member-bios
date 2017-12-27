@@ -10,11 +10,13 @@ please do not commit to `master` or merge the request without approval.
 
 ## Instructions
 
+### Member Text
+
 Copy the template below into a new file `firstname-lastname.md`. Each member bio
 is a Markdown file with a YAML header marked by `---`. The header contains some
 metadata, and the document body should contain paragraphs about you.
 
-### Header fields
+#### Header fields
 
 Template metadata:
 - `layout`: **Don't change this.** This should always have the value `profile`.
@@ -37,31 +39,31 @@ you want):
 - `linkedin`: The _URL_ of your LinkedIn profile (their username conventions are
   somewhat inconsistent).
 
-### Exec board members
+#### Exec board members
 
 In addition to the fields listed above, exec board members should include the
 following (note that `role` is indented):
 
-```
+```markdown
 ---
 exec:
   role: External Relations Chair
 ---
 ```
 
-### Alumni
+#### Alumni
 
 In addition to the fields listed above, organization alumni should include the
 following:
 
-```
+```markdown
 ---
 alum: true
 ---
 ```
 
 
-## Template
+#### Template
 
 ```markdown
 ---
@@ -84,7 +86,7 @@ Note that you _can_ use standard **Markdown** formatting here. Please don't
 include any headers or non-paragraph elements, however.
 ```
 
-## Example
+#### Example
 
 Here's an example of the required formatting.
 
@@ -110,3 +112,13 @@ Enlightenment and the history of physics for his discoveries and theories
 regarding electricity.
 ```
 
+### Member Photo
+
+Each member's photo should be named `firstname-lastname.jpg`. Additionally, each
+photo should be square and resized to 600 x 600. This can be done on the command
+line using ImageMagick:
+
+```sh
+$ brew install imagemagick
+$ convert <firstname-lastname>.jpg -resize 600x600 <firstname-lastname>.jpg
+```
