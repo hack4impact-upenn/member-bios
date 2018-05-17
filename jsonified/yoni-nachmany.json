@@ -1,0 +1,15 @@
+{
+  "yoni-nachmany": {
+    "layout": "profile",
+    "first_name": "Yoni",
+    "last_name": "Nachmany",
+    "class_of": 2018,
+    "email": "yoninachmany@gmail.com",
+    "twitter": "yoninachmany",
+    "github": "yoninachmany",
+    "linkedin": "https://www.linkedin.com/in/yoninachmany",
+    "preview": "Yoni is a senior at Penn studying [Networked and Social Systems …",
+    "content": "\n\nYoni is a senior at Penn studying [Networked and Social Systems Engineering](http://www.nets.upenn.edu/), a specialized computer science degree focused on networks, crowds and markets on the Internet. Through the NETS major, Yoni has been able to combine research on crowdsourcing that was accepted to HCOMP 2017, coursework in \"Big Data Analytics\", and teaching as a TA for the inaugural \"Foundations of Data Science\" course.\n\nYoni's summer internships have revolved around research and software development related to machine learning. At a geospatial technology company, Yoni built open source software to help apply deep learning techniques to understanding satellite imagery of environmental change. At Clarifai, a startup founded by a leader in deep learning for image classification, Yoni researched techniques to understand video data and built a platform to facilitate future research.\n\nIn his free time, he enjoys visiting museums on weekends, listening to podcasts\nbefore he goes to bed, and discovering beautiful music samples every day.\n",
+    "basename": "yoni-nachmany"
+  }
+}

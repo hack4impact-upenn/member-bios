@@ -1,0 +1,18 @@
+{
+  "max-mccarthy": {
+    "layout": "profile",
+    "title": "Max McCarthy",
+    "first_name": "Max",
+    "last_name": "McCarthy",
+    "class_of": 2016,
+    "alum": true,
+    "email": "hello@maxmcc.com",
+    "website": "http://maxmcc.com",
+    "github": "maxmcc",
+    "twitter": "ccmxam",
+    "linkedin": "https://www.linkedin.com/in/maxmcc",
+    "preview": "As the head teaching assistant for one of Penn's introductory …",
+    "content": "\n\nAs the head teaching assistant for one of Penn's introductory computer science\ncourses, Max is passionate about making a difference with technology and\nempowering others to do the same. He is pursuing a dual degree in computer\nscience and cognitive science, and has held two summer internships at Apple. His\ninterests include functional programming, interaction design, and software\nprototyping.\n\n",
+    "basename": "max-mccarthy"
+  }
+}

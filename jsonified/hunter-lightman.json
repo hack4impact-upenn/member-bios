@@ -1,0 +1,16 @@
+{
+  "hunter-lightman": {
+    "layout": "profile",
+    "first_name": "Hunter",
+    "last_name": "Lightman",
+    "class_of": 2019,
+    "email": "hunter@hack4impact.org",
+    "website": "http://hunterlightman.com",
+    "github": "huntrr",
+    "twitter": "HunterLightman",
+    "linkedin": "http://linkedin.com/in/hunterlightman",
+    "preview": "Hunter is a junior studying computer science at Penn. Last summer he …",
+    "content": "\n\nHunter is a junior studying computer science at Penn. Last summer he interned\nas a software engineer at Squarespace, and before that he worked as a\nprogramming instructor for middle and high school students. When not teaching,\nstudying, or otherwise hacking for impact, Hunter enjoys dabbling in\nhackathons, 3d printing, virtual reality, and web development. He also likes\nskiing, watching movies, and ice cream.\n",
+    "basename": "hunter-lightman"
+  }
+}
