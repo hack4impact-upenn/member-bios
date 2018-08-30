@@ -14,8 +14,8 @@ exec:
   role: Education Chair
 ---
 
-Stephanie is a sophomore in the Jerome Fisher Program in Management and Technology
-studying Computer Science, Management, and Statistics. Besides Hack4Impact,
-Stephanie is a TA for [CIS 160](http://www.cis160.com), one of Penn's introductory computer science
-classes, and is involved in WeissLabs, Wharton Asia Exchange, and Wharton
-China Business Society. Stephanie is passionate about design, math, and instant ramen.
+Stephanie is a junior studying Computer Science, Statistics in the Jerome Fisher Program in Management and Technology.
+Besides Hack4Impact, Stephanie is a TA for [CIS 160](http://www.cis160.com), one of Penn's introductory computer science
+classes, and is one of the lead organizers for [PClassic](http://pclassic.org/), a high school programming competition ran by Penn students.
+This past summer, Stephanie worked at [Coursera](https://www.coursera.org/) on the developer infrastructure team as
+a backend software engineering intern and [Kleiner Perkins fellow](http://fellows.kleinerperkins.com/). Stephanie is passionate about design, math, and instant ramen.
