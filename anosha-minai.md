@@ -3,6 +3,7 @@ layout: profile
 first_name: Anosha
 last_name: Minai
 class_of: 2018
+alum: true
 email: anosha@seas.upenn.edu
 github: anoshaminai
 linkedin: https://www.linkedin.com/in/anoshaminai

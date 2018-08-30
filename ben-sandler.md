@@ -4,6 +4,7 @@ layout: profile
 first_name: Ben
 last_name: Sandler
 class_of: 2018
+alum: true
 
 email: ben1sandler@gmail.com
 github: sandlerben

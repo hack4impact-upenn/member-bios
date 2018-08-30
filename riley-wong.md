@@ -4,6 +4,7 @@ layout: profile
 first_name: Riley
 last_name: Wong
 class_of: 2017
+alum: true
 
 email: rileynwong@gmail.com
 website: rileynwong.com

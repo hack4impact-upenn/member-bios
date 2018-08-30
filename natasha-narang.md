@@ -4,6 +4,7 @@ layout: profile
 first_name: Natasha
 last_name: Narang
 class_of: 2018
+alum: true
 
 email: nnarang@seas.upenn.edu
 github: nnarang7

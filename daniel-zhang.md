@@ -4,6 +4,7 @@ layout: profile
 first_name: Daniel
 last_name: Zhang
 class_of: 2018
+alum: true
 
 email: dzhang55@gmail.com
 github: dzhang55
