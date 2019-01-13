@@ -10,8 +10,6 @@ website: http://stephanieshi.com
 github: stephanieyshi
 twitter: stephanieyshi
 linkedin: https://linkedin.com/in/stephanieyshi
-exec:
-  role: Education Chair
 ---
 
 Stephanie is a junior studying Computer Science, Statistics in the Jerome Fisher Program in Management and Technology.
