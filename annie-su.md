@@ -12,4 +12,4 @@ exec:
   role: Education Chair
 ---
 
-Annie is a junior at the University of Pennsylvania studying Digital Media Design. She is originally from Johns Creek, Georgia. Last summer, she worked at Manzanita K.K., an advertising tech startup in Tokyo. Outside of Hack4Impact, she is a part of Epsilon Eta, an environmental fraternity. She has a penchant for reading memoirs and Asian American literature, sketching and perusing through art museums, and meeting kind, interesting people.
+Annie is a junior at the University of Pennsylvania studying Digital Media Design. She is originally from Johns Creek, Georgia. Last summer, she worked at Manzanita K.K., an advertising tech startup in Tokyo. She likes reading, especially memoirs and Asian-American literature, creating content in some way (art, design, print, video, writing, etc.), and meeting kind, interesting people.
