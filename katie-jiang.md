@@ -8,8 +8,6 @@ class_of: 2020
 email: kajiang@seas.upenn.edu
 github: katiejiang
 linkedin: http://linkedin.com/profile/katiejiang
-exec:
-  role: Co-Director
 ---
 
 Agent Name: Katie Jiang
