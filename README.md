@@ -120,5 +120,5 @@ line using ImageMagick:
 
 ```sh
 $ brew install imagemagick
-$ convert <firstname-lastname>.jpg -resize 600x600 <firstname-lastname>.jpg
+$ convert <firstname-lastname>.jpg -gravity center -resize 600x600^ -extent 600x600 <firstname-lastname>.jpg
 ```
