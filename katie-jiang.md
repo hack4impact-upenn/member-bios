@@ -10,26 +10,4 @@ github: katiejiang
 linkedin: http://linkedin.com/profile/katiejiang
 ---
 
-Agent Name: Katie Jiang
-
-Code Name: K80
-
-Hometown: Fremont, California (30 minutes from San Francisco, as she normally introduces it)
-
-Year: Sophomore
-
-Major: CIS (Central Intelligence Society)
-
-Affiliations:
-
-- [CIS 160 TA](https://www.seas.upenn.edu/~cis160/current/): As a former CIS 160 agent, Katie uses complex probability models and expectation calculations to predict enemy movements.
-
-- [CIS 121 TA](https://www.seas.upenn.edu/~cis121/current/): Katie is an incoming CIS 121 trainee. Armed with Dijkstra's, she always finds the shortest path to victory.
-
-- [The Sign.al](http://thesign.al): On the side, she designs and develops secret resources for The Sign.al, which involves eavesdropping on CEOs, CTOs, and other successful Penn alumni (don't worry – we actually interview them.)
-
-Passions: Advocacy, design, education, *Hamilton: An American Musical*, Lofi, Sketching, Webtoons
-
-Occupations:
-
-  Katie infiltrated Facebook last summer as an intern to spy on the world's most popular social network. Unfortunately all she came out with was more knowledge about iOS development. Otherwise, she's currently unemployed.
+Katie is a computer science student originally from the SF Bay Area. She did some stuff in the past like CIS 160 TA-ing and whatnot, but doesn't do anything now because she's a senior! She was previously at FB, Airbnb, Opendoor, and is joining [Figma](https://figma.com) full-time after she graduates. Besides being a total weeb, Katie loves sketching, K-pop, board games, and on a more serious note, cares a lot about education and diversity & inclusion. Reach out to her anytime through email and she is happy to help!
