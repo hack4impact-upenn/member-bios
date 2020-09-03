@@ -4,7 +4,7 @@ layout: profile
 first_name: Alex
 last_name: Xu
 class_of: 2021
-alum: true
+alum: false
 
 email: alexmxu@seas.upenn.edu
 website: alexmxu.com
