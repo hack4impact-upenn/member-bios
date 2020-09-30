@@ -9,4 +9,4 @@ email: me@andrewshen.net
 github: andrewshen
 ---
 
-Andrew Shen studies Digital Media Design at Penn. As someone who's interested in the application of design towards systemic problems, he hopes to combine the thinking of both an engineer and a designer to tackle problems. Before contracting for Comma.ai, he was the first designer at DoorDash and a KPCB Fellow. He enjoys playing basketball and listening to music in his free time.
+Andrew Shen is a senior at Penn studying Computer Science and Philosophy. He loves basketball, thoughtful conversations, and standup specials, and is a big believer in mindfulness, craft, and asking good questions. That's pretty much it!
