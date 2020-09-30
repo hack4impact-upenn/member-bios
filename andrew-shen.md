@@ -5,7 +5,7 @@ first_name: Andrew
 last_name: Shen
 class_of: 2021
 
-email: me@andrewshen.net
+email: aashen@seas.upenn.edu
 github: andrewshen
 ---
 
