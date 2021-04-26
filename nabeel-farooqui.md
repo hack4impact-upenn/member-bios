@@ -6,9 +6,6 @@ class_of: 2021
 
 website:
 email: nabeelf@seas.upenn.edu
-
-exec:
-  role: Project Chair
 ---
 
 <!-- @format -->
