@@ -8,7 +8,7 @@ website:
 email: daniel.tian@hack4impact.org
 
 exec:
-  role: External Relations Chair
+  role: Co-director
 ---
 
 <!-- @format -->
