@@ -11,7 +11,7 @@ twitter: ben_demers
 linkedin: https://www.linkedin.com/in/bendemers
 
 exec:
-  role: Community Chair
+  role: Co-director
 ---
 
 <!-- @format -->
