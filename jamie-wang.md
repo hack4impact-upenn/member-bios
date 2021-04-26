@@ -8,8 +8,6 @@ class_of: 2021
 email: jamwa@wharton.upenn.edu
 github: jamiewang98
 linkedin: www.linkedin.com/in/jamie-wang-883a49126
-exec:
-  role: Co-Director
 ---
 
 <!-- @format -->
