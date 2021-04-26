@@ -6,9 +6,6 @@ class_of: 2021
 
 website:
 email: saraines@seas.upenn.edu
-
-exec:
-  role: Co-Director
 ---
 
 <!-- @format -->
