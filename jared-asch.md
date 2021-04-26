@@ -8,7 +8,7 @@ website:
 email: jaredasch1@gmail.com
 
 exec:
-  role: Education Chair
+  role: Project Chair
 ---
 
 <!-- @format -->
