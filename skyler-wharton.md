@@ -1,7 +1,7 @@
 ---
 layout: profile
 
-first_name: Veronica
+first_name: Skyler
 last_name: Wharton
 class_of: 2017
 alum: true
