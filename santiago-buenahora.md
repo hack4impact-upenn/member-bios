@@ -6,13 +6,7 @@ last_name: Buenahora
 class_of: 2019
 alum: true
 
-email: santib97@gmail.com
-twitter: santigoodtime
-github: sbue
-website: https://www.santiagobuenahora.com
-linkedin: https://www.linkedin.com/in/santiago-buenahora
 ---
 
 <!-- @format -->
-
-Santiago Buenahora is a Senior at the University of Pennsylvania pursuing a B.S.E. in Computer Science. Last summer, Santiago worked at Affirm as an intern on the Bank Engineering team. Previously, Santiago has worked for Microsoft OneDrive, and a Medialets, an NYC-based ad-tech startup. A voracious reader and inspired by his father's service to his country's House of Representatives, Santi aspires to ultimately harness technology to aid his Colombian roots.
+Santiago Bueanhora graduated in 2019 from the University of Pennsylvania with a B.S.E. in Computer Science. Santiago worked at Robinhood after graduation, but had previously worked at Affirm, Microsoft, Medialets.
